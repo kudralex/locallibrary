@@ -25,7 +25,7 @@ SECRET_KEY = 'rp_pp&@ryt#tlgx_v01@0kaaamukgb$75%48germhx^q4-k^v@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.90']
+ALLOWED_HOSTS = ['192.168.1.90','kudralex.pythonanywhere.com']
 
 
 # Application definition
